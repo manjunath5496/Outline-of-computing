@@ -1,3 +1,6 @@
+<h2>Outline of computing </h2>
+
+
 <p><strong><a title="Computing" href="https://en.wikipedia.org/wiki/Computing">Computing</a></strong>&nbsp;&ndash; activity of using and improving&nbsp;<a title="Computer hardware" href="https://en.wikipedia.org/wiki/Computer_hardware">computer hardware</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Computer software" href="https://en.wikipedia.org/wiki/Computer_software">software</a>.</p>
 <p>&nbsp;</p>
 
