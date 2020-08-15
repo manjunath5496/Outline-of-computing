@@ -1,8 +1,7 @@
 <p><strong><a title="Computing" href="https://en.wikipedia.org/wiki/Computing">Computing</a></strong>&nbsp;&ndash; activity of using and improving&nbsp;<a title="Computer hardware" href="https://en.wikipedia.org/wiki/Computer_hardware">computer hardware</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Computer software" href="https://en.wikipedia.org/wiki/Computer_software">software</a>.</p>
 <p>&nbsp;</p>
-<div class="toclimit-2">
-<div id="toc" class="toc"><strong>Contents</strong>
-<div class="toctitle" dir="ltr" lang="en">&nbsp;</div>
+
+<p><strong>Contents</strong></p>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Branches_of_computing"><span class="toctext">Branches of computing</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Computer_science"><span class="toctext">Computer science</span></a></li>
@@ -19,8 +18,7 @@
 <li class="toclevel-1 tocsection-24"><a href="#Computing_publications"><span class="toctext">Computing publications</span></a></li>
 <li class="toclevel-1 tocsection-25"><a href="#Persons_influential_in_computing"><span class="toctext">Persons influential in computing</span></a></li>
 </ul>
-</div>
-</div>
+</br>
 <h2><span id="Branches_of_computing" class="mw-headline">Branches of computing</span></h2>
 <ul>
 <li><a class="mw-redirect" title="Computer Science" href="https://en.wikipedia.org/wiki/Computer_Science">Computer Science</a>&nbsp;(<a title="Outline of computer science" href="https://en.wikipedia.org/wiki/Outline_of_computer_science">Outline of computer science</a>)</li>
